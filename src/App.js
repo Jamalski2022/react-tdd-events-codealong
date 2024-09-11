@@ -1,6 +1,8 @@
 function App() {
   return (
-    <div></div>
+    <div>
+      <h1>Welcome to the Movie App</h1>
+    </div>
   )
 }
 
